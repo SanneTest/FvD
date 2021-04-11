@@ -1,6 +1,9 @@
 # Procesverslag
 **Auteur:** -jouw naam-
 
+**Het werk:** [opdracht 1 link](opdracht1/index.html) en [opdracht 1 link](opdracht2/index.html)
+
+
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
